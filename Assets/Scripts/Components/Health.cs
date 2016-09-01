@@ -5,7 +5,6 @@ using System.Collections.Generic;
 namespace Assets.Scripts.Components
 {
 
-
 	public class Health: CustomComponentBase {
 		public float CurStuff= 0f;
 		float pointValue;

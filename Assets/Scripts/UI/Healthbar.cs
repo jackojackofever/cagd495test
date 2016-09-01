@@ -4,7 +4,9 @@ using Assets.Scripts.Components;
 using UnityEngine.UI;
 
 public class Healthbar : MonoBehaviour {
-	Health health;
+    public int Health;
+
+    Health health;
 	public Image HealthFillBG;
 	public Image HealthFill;
 
